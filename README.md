@@ -4,7 +4,8 @@ Hi there, my name is Habiba Mezguich.
 
 I am a graduate of Esprit School of Business with a bachelor's degree in Business Information System. My academic journey seamlessly blends these disciplines, Web development, web design and digital mrketing – all areas that deeply align with my personal interests. This fusion of expertise allows me to innovate at the intersection of hard skills and soft skills, bridging intricate technological gaps.
 
-Check out [my cool little chatbot] (https://habibamezguich.github.io/chatbot-portfolio/) to learn more about me.
+Check out my cool little chatbot to learn more about me :
+https://habibamezguich.github.io/chatbot-portfolio t
 
 
 ### 👨‍💻 Programming
