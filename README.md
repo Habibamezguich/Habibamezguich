@@ -8,7 +8,7 @@ Check out my cool little chatbot to learn more about me :
 https://habibamezguich.github.io/chatbot-portfolio 
 
 
-### 👨‍💻 Programming
+### 👨‍💻 Programming Languages : 
 
 [![Angular Logo](https://www.vectorlogo.zone/logos/angular/angular-ar21.svg)](https://angular.com/)
 [![Laravel Logo](https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg)](https://laravel.com/)
